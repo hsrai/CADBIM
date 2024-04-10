@@ -1,0 +1,22 @@
+# Assignment - 1
+## Cricket Pitch
+###Software Used - Libre-CAD
+### Objective: - The objective of this report is to explore the application of LibreCAD software in designing pitches for various engineering and architectural applications. This includes understanding the software's capabilities, its utility in creating pitch designs. 
+### Introduction: - It was a trial on LibreCAD to know about the features of that software so, we can easily make our projects through this software. I had made a Cricket Pitch.
+### Materials and Equipment:
+1.	LibreCAD software (latest version)
+2.	Computer or laptop with required specifications
+### Procedure: -
+1.	Open LibreCAD: Launch the LibreCAD software on your computer.
+2.	Create a New Drawing: To create a new drawing, either click on "File" in the menu bar and then select "New" or press Ctrl + N.
+3.	Set Drawing Parameters: Before starting any project or assignment you may want to set the parameters for your drawing such as units, dimensions, grid settings, etc. You can access these settings by clicking on "Options" in the menu bar and selecting "Current Drawing Preferences." Adjust the settings according to your requirements and click "OK" to apply the changes.
+4.	Draw rectangle of (22.56m,3.66m).
+5.	Take Offset (O) of 2.44m on both sides.
+6.	Take radius of circle 22mm.
+7.	Click on “Dimension.” 
+8.	Take all the dimensions.
+9.	Once you have completed your project, save it by clicking on "File" in the menu bar and selecting "Save As." Choose a location on your computer to save the project, give it a name, and select the .dxf file format. Click "Save" to save your project.
+### Results: 
+### Discussion: It is help me to understand the features of LibreCAD. for pitch design in terms of user-friendliness, accuracy, and efficiency.
+### Conclusion: Librecad software provides a valuable platform for designing pitches.
+### References: Google.
