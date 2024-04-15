@@ -1,4 +1,4 @@
-# Introduction to BIM workbench (FreeCAD)
+# Explore BIM workbench (FreeCAD)
 ### Objective :- 
 To know and use BIM WB for designing of various 3D drawings in freeCAD.
 ### Introduction:-
@@ -10,7 +10,6 @@ BIM (Building Information Modeling) workbench in FreeCAD is a powerful toolset d
 
 3.[You tube](https://www.youtube.com/watch?v=rkWOFQ2fGZQ&list=PLmKdGVtV5Vnt2cj4IZIv9FM39QHaE1ZaU)
 
-4.[Book]()
 ### Procedure:-
 1. Open FreeCAD software on your computer to start the design process.
 
