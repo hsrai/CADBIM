@@ -18,10 +18,10 @@ LibreCAD is a computer-aided design (CAD) application for 2D design. It is a ver
  6. The more you use and play with the tools in LibreCAD ,the more you would learn.
  
 ### Result:-
-[File](https://github.com/naveenkpareek/CADBIM/blob/main/2114039/libracad/Introduction%20to%20LibraCAD%20interface.dxf)
+[File]()
 
 Photo
-![Photo](C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot 2024-04-09 105516.png)
+![Photo](https://github.com/Webby07/Piyush-2114045/blob/main/Photos/LibreCAD.png))
  
 ### Discussion:-
 Learning an interface of the software gives you a strong foundation which would help you in future uses and drawings.As a result you will be able to learn about various tools and widgets if incase any problem arise than prefer the mannual in the help section of the LibreCAD, moreover we can also took the help of youtube.
