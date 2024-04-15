@@ -1,6 +1,6 @@
-# Design of 1BHK Plan
+# Layout Plan
 ### Objective :- 
-Design of 1BHK plan using LibreCAD and also with help of _Block_
+Layout plan using LibreCAD and also with help of _Block_
 ### Introduction:-
 1 BHK apartments are popular choices for singles, couples, or small families seeking compact yet comfortable living spaces. Efficient space utilization and thoughtful design are key considerations when drafting the floor plan for such residences. LibreCAD offers a comprehensive set of tools and features that enable designers to translate their creative vision into detailed and accurate drawings.
 ### Material and equipments used:-
@@ -10,7 +10,6 @@ Design of 1BHK plan using LibreCAD and also with help of _Block_
 
 3.[You tube](https://www.youtube.com/watch?v=uaZ4MuXcu8s)
 
-4.[Book]()
 ### Procedure:-
 1. Open LibreCAD software on your computer to start the design process.
 
@@ -29,7 +28,7 @@ Design of 1BHK plan using LibreCAD and also with help of _Block_
 8. Review the 1 BHK plan to ensure accuracy and completeness. Make any necessary modifications or adjustments based on feedback or further analysis.
  
 ### Result:-
-[File](https://github.com/naveenkpareek/CADBIM/blob/main/2114039/libracad/Introduction%20to%20LibraCAD%20interface.dxf)
+[File](https://github.com/Webby07/Piyush-2114045/blob/main/2114045/LibreCAD/%23Layout%20of%20Floor.dxf)
 
 Photo
 ![Photo](C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot 2024-04-09 105516.png)
