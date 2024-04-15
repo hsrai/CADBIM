@@ -9,4 +9,4 @@
 |**6**|Introduction to [BIM workbench (FreeCAD)](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/LAB%20ASSIGNMENT%20REPORT/Introduction%20to%20BIM%20workbench%20(FreeCAD).md)|5 March 2024|-|-|
 |**7**|Design of [3D Room Plan (BIM)](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/LAB%20ASSIGNMENT%20REPORT/3D%20Room%20Plan%20using%20FreeCAD%20(BIM).md)|5 March 2024|12 March 2024|-|
 |**8**|Reinforced Concrete elements:- [Slab,Beam,Column](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/LAB%20ASSIGNMENT%20REPORT/slab%2Ccolumn%2Cbeam.md)|12 March 2024|2 April 2024|-|
-|**9**|Design of [2 BHK Plan using LibreCAD(Blocks)]()|27 Feb 2024|5 March 2024|-|
+|**9**|Design of [2 BHK Plan using LibreCAD(Blocks)](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Files/%232%20BHK%20LAYERS.dxf)|27 Feb 2024|5 March 2024|-|
