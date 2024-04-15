@@ -27,7 +27,7 @@
 
 ### Results:-
 
-[File](https://github.com/Webby07/Piyush-2114045/blob/main/2114045/FreeCAD/Column%20Reinforcement.FCStd)
+[File](https://github.com/Webby07/Piyush-2114045/blob/main/2114045/FreeCAD/Column%20Reinforcemnent.FCStd)
 
 Photo
 
