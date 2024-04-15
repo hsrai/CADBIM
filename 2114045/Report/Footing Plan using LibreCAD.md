@@ -29,7 +29,7 @@ Isolated footing drawings are essential documents in the construction process, p
 8.  Save the drawing file in a suitable format (e.g., DXF, DWG) for future reference and sharing with collaborators or for printing.
  
 ### Result:-
-[File](https://github.com/naveenkpareek/CADBIM/blob/main/2114039/libracad/Introduction%20to%20LibraCAD%20interface.dxf)
+[File](https://github.com/Webby07/Piyush-2114045/blob/main/2114045/LibreCAD/column.dxf)
 
 Photo
 ![Photo](C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot 2024-04-09 105516.png)
