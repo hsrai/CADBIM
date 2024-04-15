@@ -24,3 +24,11 @@
 12. Click OK or Apply to generate column reinforcement.
 
 13. Click Cancel to exit the dialog box.
+
+### Results:-
+
+[File](https://github.com/Webby07/Piyush-2114045/blob/main/2114045/FreeCAD/Column%20Reinforcement.FCStd)
+
+Photo
+
+![photo](https://github.com/Webby07/Piyush-2114045/blob/main/Photos/Column.png)
