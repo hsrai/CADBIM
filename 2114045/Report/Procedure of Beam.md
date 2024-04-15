@@ -28,3 +28,11 @@
 14. Click OK or Apply to generate beam reinforcement.
 
 15. Click Cancel to exit the dialog box.
+
+### Results:-
+
+[File](https://github.com/Webby07/Piyush-2114045/blob/main/2114045/FreeCAD/Beam%20Reinforcemnent.FCStd)
+
+Photo
+
+![photo](https://github.com/Webby07/Piyush-2114045/blob/main/Photos/Beam.png)
