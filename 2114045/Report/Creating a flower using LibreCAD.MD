@@ -14,7 +14,7 @@ LibreCAD is a computer-aided design (CAD) application for 2D design. It is a ver
  2. Select circle tool.
  3. Use copy tool to copy the circle.
  4. Now click on the rotate tool in the toolbar panel.
- 5. Now rotate the circle 5 times keeping the original too.
+ 5. Now rotate the circle 6 times keeping the original too.
  6. Create a new layer with name color
  7. Now go to hatch tool and select the item need to be hatched.
  8. Your 2D flower or rangoli is completed  
