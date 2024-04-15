@@ -1,29 +1,17 @@
 # **Procedure for design of reinforced column**
-1. Select any face of a previously created  Arch Structure object.
+1. Launch FreeCAD on your computer.
+2. Begin a new project or open an existing project where you want to design the Column reinforcement.
+3. Select a BIM Workbench And Set a Top view.
+4. Create a 2-point rectangle, for Center Align set (X, Y & Z : 0, 0 & 0).
+5. After that Choose a appropriate parameter of  Column.
+6. Create a Column from a planar Shape.
+7. Next select a Reinforcement Workbench and Select a correct face of Column.
+8. Then, Create a Column Reinforcement from a selected face of the Structural element.
+9. Depending on the design requirements, adjust the parameters of the reinforcement such as spacing, diameter, cover, etc.
+10. Ensure that the reinforcement configuration meets the design specifications and standards.
+11. Inspect the model to ensure that the reinforcement is placed correctly and meets the structural requirements.
+12. Save your FreeCAD project to preserve your work and modifications.
 
-2. Then select  Column Reinforcement from the rebar tools.
-
-3. A dialog box will pop-out on screen.
-
-4. Select the desired type of column reinforcement.
-
-5. Give inputs for data related to ties.
-
-6. Click Next and the dialog box will be updated.
-
-7. Select desired rebar type and fill data for main rebars.
-
-8. Click Next and the dialog box will be updated.
-
-9. Select desired rebar type and fill data for xdirection rebars.
-
-10. Click Next and the dialog box will be updated.
-
-11. Select desired rebar type and fill data for ydirection rebars.
-
-12. Click OK or Apply to generate column reinforcement.
-
-13. Click Cancel to exit the dialog box.
 
 ### Results:-
 
