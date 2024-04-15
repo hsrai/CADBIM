@@ -23,4 +23,4 @@
 
 Photo
 
-!photo()
+![photo](https://github.com/Webby07/Piyush-2114045/blob/main/Photos/Slab.png)
