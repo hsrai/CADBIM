@@ -98,9 +98,9 @@ Reinforced elements in FreeCAD's BIM (Building Information Modeling) environment
 ### Result:-
 | S.NO | Element | File | Photos | Remarks |
 | ---- | ---- | ---- | ---- | ---- |
-|1| Slab | [Link]() | [Link]() |-|
-|2| Column |[Link]() | [Link]() |-|
-|3| Beam |[Link]() | [Link]() |-|
+|1| Slab | [Link](https://github.com/arunsharma13919/CADBIM/blob/main/2114106/FreeCAD/slab.FCStd) | [Link]() |-|
+|2| Column |[Link](https://github.com/arunsharma13919/CADBIM/blob/main/2114106/FreeCAD/column.FCStd) | [Link]() |-|
+|3| Beam |[Link](https://github.com/arunsharma13919/CADBIM/blob/main/2114106/FreeCAD/Beam%20Reinforcement.FCStd) | [Link]() |-|
  
 ### Discussion:-
 
