@@ -1,4 +1,4 @@
 # Name= Kaifa Rasheed
-## Cureentrly pursuing B.tech in civil engineering in GNDEC
+## Currently pursuing B.tech in civil engineering in GNDEC
 ## Roll no.=2114105/2203380
 
