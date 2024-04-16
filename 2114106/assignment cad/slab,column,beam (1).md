@@ -4,7 +4,7 @@ Designing the structural reinforced elements such as beams,columns,slabs,etc.
 ### Introduction:-
 Reinforced elements in FreeCAD's BIM (Building Information Modeling) environment opens up a world of possibilities for architects, engineers, and designers. Reinforced elements typically refer to structural components, such as beams, columns, slabs, and walls, that are reinforced with materials like steel or concrete to enhance their strength and load-bearing capacity.
 ### Material and equipments used:-
-| S.NO | Material and equipments used | Slab | Column | Beam | Remarks |
+| S.NO | Material and equipments used | Slab | Column | Beam |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 |**1**|**Manual** |[Link](https://wiki.freecad.org/Reinforcement_SlabRebars)|[Link](https://wiki.freecad.org/Reinforcement_ColumnRebars)|[Link](https://wiki.freecad.org/Reinforcement_BeamRebars/en)|-|
 |**2**|**You tube**|[Link](https://www.youtube.com/watch?v=ObsbhKyGPoA)|[Link](https://www.youtube.com/watch?v=vYgNCvM2NNU)|[Link](https://www.youtube.com/watch?v=iyJMQKHhzUM)|-|
