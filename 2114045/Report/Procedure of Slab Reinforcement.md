@@ -19,4 +19,4 @@
 
 Photo
 
-![photo](https://github.com/Webby07/Piyush-2114045/blob/main/Photos/Slab.png)
+![photo](https://raw.githubusercontent.com/Webby07/Piyush-2114045/main/Photos/Slab.png)
