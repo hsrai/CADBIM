@@ -19,4 +19,4 @@
 
 Photo
 
-![photo](https://github.com/Webby07/Piyush-2114045/blob/main/Photos/Beam.png)
+![photo](https://raw.githubusercontent.com/Webby07/Piyush-2114045/main/Photos/Beam.png)
