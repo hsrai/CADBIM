@@ -21,7 +21,7 @@ LibreCAD is a computer-aided design (CAD) application for 2D design. It is a ver
 [File](https://github.com/Webby07/CADBIM/blob/main/2114045/LibreCAD/LibreCAD.dxf)
 
 Photo
-![Photo](https://github.com/Webby07/Piyush-2114045/blob/main/Photos/LibreCAD.png)
+![Photo](https://raw.githubusercontent.com/Webby07/Piyush-2114045/main/Photos/LibreCAD.png)
  
 ### Discussion:-
 Learning an interface of the software gives you a strong foundation which would help you in future uses and drawings.As a result you will be able to learn about various tools and widgets if incase any problem arise than prefer the mannual in the help section of the LibreCAD, moreover we can also took the help of youtube.
