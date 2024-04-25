@@ -28,7 +28,7 @@ Layout plan using LibreCAD and also with help of _Block_
 8. Review the 1 BHK plan to ensure accuracy and completeness. Make any necessary modifications or adjustments based on feedback or further analysis.
  
 ### Result:-
-[File](https://github.com/Webby07/Piyush-2114045/blob/main/2114045/LibreCAD/%23Layout%20of%20Floor.dxf)
+[File](https://github.com/Webby07/CADBIM/blob/main/2114045/LibreCAD/%23Layout%20of%20Floor.dxf)
 
 Photo
 ![Photo](https://github.com/Webby07/Piyush-2114045/blob/main/Photos/Layout.png)
