@@ -31,7 +31,7 @@ Layout plan using LibreCAD and also with help of _Block_
 [File](https://github.com/Webby07/CADBIM/blob/main/2114045/LibreCAD/%23Layout%20of%20Floor.dxf)
 
 Photo
-![Photo](https://github.com/Webby07/Piyush-2114045/blob/main/Photos/Layout.png)
+![Photo](https://raw.githubusercontent.com/Webby07/Piyush-2114045/main/Photos/Layout.png)
  
 ### Discussion:-
 LibreCAD offers tools for rendering and visualization, allowing designers to create realistic 3D models or detailed 2D representations of the 1 BHK plan. These visualizations help clients and stakeholders better understand the design concept and make informed decisions.
