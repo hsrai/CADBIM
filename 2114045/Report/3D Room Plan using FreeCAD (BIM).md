@@ -50,7 +50,7 @@ Designing a 3D room in FreeCAD using BIM is very interesting task which make us 
 [File](https://github.com/Webby07/CADBIM/blob/main/2114045/FreeCAD/BIM%20Model%202114045.FCStd)
 
 Photo
-![Photo]([https://raw.githubusercontent.com/Webby07/Piyush-2114045/main/Photos/Small%20Building.png]) 
+![Photo](https://raw.githubusercontent.com/Webby07/Piyush-2114045/main/Photos/Small%20Building.png) 
 ### Discussion:-
 Creating a 3D model of a room in BIM using FreeCAD empowers architects, engineers, and designers to develop comprehensive and coordinated building designs, leading to improved efficiency, reduced errors, and better project outcomes.
 
