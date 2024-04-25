@@ -19,4 +19,4 @@
 
 Photo
 
-![photo](https://github.com/Webby07/Piyush-2114045/blob/main/Photos/Column.png)
+![photo](https://raw.githubusercontent.com/Webby07/Piyush-2114045/main/Photos/Column.png)
