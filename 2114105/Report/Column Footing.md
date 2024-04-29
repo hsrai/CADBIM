@@ -29,10 +29,10 @@ Isolated footing drawings are essential documents in the construction process, p
 8.  Save the drawing file in a suitable format (e.g., DXF, DWG) for future reference and sharing with collaborators or for printing.
  
 ### Result:-
-[File](https://github.com/naveenkpareek/CADBIM/blob/main/2114039/libracad/Introduction%20to%20LibraCAD%20interface.dxf)
+[File]()
 
 Photo
-![Photo](C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot 2024-04-09 105516.png)
+![Photo]()
  
 ### Discussion:-
 LibreCAD offers a range of tools and features that allow engineers to design isolated footings with various shapes and dimensions to suit the specific requirements of a project. Whether it's rectangular, square, circular, or custom-shaped footings, LibreCAD provides the tools to accurately draft these designs.
